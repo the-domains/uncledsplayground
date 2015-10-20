@@ -2,6 +2,7 @@ name: uncledsplayground
 favicon: null
 layout_spectrum: 0.26471
 typography_spectrum: 0.24164
+title: Uncled
 cta:
   domain: null
   bucket: null
