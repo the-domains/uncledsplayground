@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-10-20T00:06:48.639Z'
-dateModified: '2015-10-20T00:06:09.570Z'
+datePublished: '2015-10-20T00:08:35.729Z'
+dateModified: '2015-10-20T00:08:16.840Z'
 title: Let me see how this works
 author: []
 sourcePath: _posts/2015-10-19-getting-started-on-the-grid.md
