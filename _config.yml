@@ -1,7 +1,7 @@
-name: null
+name: uncledsplayground
 favicon: null
-layout_spectrum: 0.2065963672939688
-typography_spectrum: 0.182503673247993
+layout_spectrum: 0.26471
+typography_spectrum: 0.24164
 cta:
   domain: null
   bucket: null
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.9544205998536199
+  brandColors:
+    - '#fefefe'
+    - '#000000'
+    - '#cacaca'
+    - '#555555'
+    - '#949494'
+  brandStrength: 1
   lightness: 0.896375872194767
   saturation: 0.7445163615047932
   rhythmicContrast: 0.7748432403896004
